@@ -43,4 +43,4 @@ jobs:
       # Exécution des tests avec PHPUnit
       - run:
           name: "Run tests"
-          command: composer test
+          command: composer tests
